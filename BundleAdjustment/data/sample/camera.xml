@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<opencv_storage>
+<intrinsic type_id="opencv-matrix">
+  <rows>3</rows>
+  <cols>3</cols>
+  <dt>f</dt>
+  <data>
+    2.7e+002 0. 6.4e+001 0. 2.7e+002
+    6.4e+001 0. 0. 1.</data></intrinsic>
+<rotation type_id="opencv-matrix">
+  <rows>1</rows>
+  <cols>3</cols>
+  <dt>f</dt>
+  <data>
+    -1.97274280e+000 -2.33545756e+000 -5.95123649e-001</data></rotation>
+<translation type_id="opencv-matrix">
+  <rows>1</rows>
+  <cols>3</cols>
+  <dt>f</dt>
+  <data>
+    -8.13318176e+001 3.84313622e+001 7.94822876e+002</data></translation>
+<distortion type_id="opencv-matrix">
+  <rows>1</rows>
+  <cols>5</cols>
+  <dt>f</dt>
+  <data>
+    1.86205178e-001 -2.28327990e+000 -4.69378792e-002 1.77238521e-003
+    4.58335161e+000</data></distortion>
+</opencv_storage>
