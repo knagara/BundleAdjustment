@@ -1,7 +1,7 @@
 BundleAdjustment
 ================
   
-####Self-calibration Bundle Adjustment  
+#### Self-calibration Bundle Adjustment  
   
 [INPUT]  
 * Data set of corresponding points（(X,Y,Z) in global coordinate，(x,y) on image coordinate on each frame）  
@@ -16,7 +16,7 @@ BundleAdjustment
   
 ================
   
-####セルフキャリブレーション付きバンドル調整  
+#### セルフキャリブレーション付きバンドル調整  
   
 入力  
 　対応点データ（x,y,z空間座標，x,y画像座標）  
