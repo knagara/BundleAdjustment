@@ -14,7 +14,7 @@ BundleAdjustment
 * Interior parameters (focal length = f, principal point = (cx, cy))  on each frame  
 * Interior parameters (lens distortion parameters = (K1,K2,K3,P1,P2))  on each frame   
   
-================
+-----------------------
   
 #### セルフキャリブレーション付きバンドル調整  
   
