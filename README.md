@@ -7,6 +7,8 @@ BundleAdjustment
 * Data set of corresponding points（(X,Y,Z) in global coordinate，(x,y) on image coordinate on each frame）  
 * Translation and orientation (R,T) on each frame  
 * Interior parameters (focal length = f, principal point = (cx, cy))  on each frame 
+
+-> See [Sample data](https://github.com/knagara/BundleAdjustment/tree/master/BundleAdjustment/data/sample)
   
 [OUTPUT]  
 * Point cloud（(X,Y,Z) in global coordinate）  
@@ -22,6 +24,8 @@ BundleAdjustment
 　対応点データ（x,y,z空間座標，x,y画像座標）  
 　カメラ外部標定要素（並進，回転）  
 　カメラ内部標定要素（焦点距離，主点位置）  
+ 
+-> [サンプルデータ](https://github.com/knagara/BundleAdjustment/tree/master/BundleAdjustment/data/sample)
   
 出力  
 　点群座標（x,y,z空間座標）  
